@@ -1,5 +1,5 @@
 # PersonalWebsite_Java
-
+This is a small website I made for a class project. The point was to use servlets. I used servlets.
 
 ## ConnectServlet
     package edu.cvtc.web;
