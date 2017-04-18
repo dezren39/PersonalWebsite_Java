@@ -1,7 +1,7 @@
 # PersonalWebsite_Java
 This is a small website I made for a class project. The point was to use a servlet. I used a servlet.
 
-## ConnectServlet
+### ConnectServlet
     package edu.cvtc.web;
 
     import java.io.IOException;
@@ -68,7 +68,7 @@ This is a small website I made for a class project. The point was to use a servl
 
     }
 
-## User Class
+### User Class
     /**
      * 
      */
